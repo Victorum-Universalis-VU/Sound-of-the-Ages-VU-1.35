@@ -1,0 +1,21 @@
+#Sound of the Ages
+sound = {
+	name = SAN_age_of_discovery
+	file = "SAN_age_of_discovery.wav"
+}
+sound = {
+	name = SAN_age_of_reformation
+	file = "SAN_age_of_reformation.wav"
+}
+sound = {
+	name = SAN_age_of_absolutism
+	file = "SAN_age_of_absolutism.wav"
+}
+sound = {
+	name = SAN_a_of_revolutions
+	file = "SAN_age_of_revolutions.wav"
+}
+sound = {
+	name = SAN_a_of_change
+	file = "SAN_age_of_change.wav"
+}
